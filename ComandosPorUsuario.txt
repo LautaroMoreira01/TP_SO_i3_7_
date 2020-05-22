@@ -60,6 +60,88 @@ git clone https://github.com/lauty2001moreira/TP_SO_i3_7_.git
   
 Sbaglia Julian
 
+  12  git init
+  13  git clone https://github.com/lauty2002moreira/TP_SO_i3_7
+  14  git status
+  15  git checkout -b Sbaglia
+  16  cd TP_SO_i3_Equipo_7/
+  17  open datos.txt
+  18  nano datos.txt
+  19  git status
+  20  git add *
+  21  cat /proc/cpuinfo > CPUGamma.txt
+  22  cd ..
+  23  git status
+  24  git add *
+  25  git push
+  26  git remote add master https://github.com/lauty2002moreira/TP_SO_i3_7
+  27  git push master
+  28  git push --set-upstream master Sbaglia
+  29  git push --set-upstream master Sbaglia
+  30  git push --set-upstream master Sbaglia
+  31  git push
+  32  git push origin master
+  33  git commit -m
+  34  git commit -m "Sbaglia"
+  35  git push --set-upstream master Sbaglia
+  36  git status
+  37  git branch -d Sbaglia
+  38  git branch -d Sbaglia
+  39  git clone https://github.com/lauty2002moreira/TP_SO_i3_7.git
+  40  git status
+  41  cd TP_SO_i3_7/
+  42  nano datos.txt
+  43  cat /proc/cpuinfo > CPUGamma
+  44  cat /proc/cpuinfo > CPUGamma.txt
+  45  rm CPUGamma
+  46  git status
+  47  git add *
+  48  git commit -m "Sbaglia"
+  49  git status
+  50  git push Sbaglia
+  51  git checkout -b Sbaglia
+  52  git status
+  53  git push
+  54  git push --set-upstream origin Sbaglia
+  55  git branch -d Sbaglia
+  56  git branch -D Sbaglia
+  57  git push master :Sbaglia
+  58  git status
+  59  git checkout master
+  60  git status
+  61  git checkout Sbaglia
+  62  git status
+  63  git push --set-upstream origin Sbaglia
+  64  ifconfig
+  65  git status
+  66  git status
+  67  git checkout Sbaglia
+  68  git status
+  69  git status
+  70  git checkout Sbaglia
+  71  git status
+  72  git checkout Sbaglia
+  73  git pull
+  74  git status
+  75  git checkout Sbaglia
+  76  git pull
+  77  git checkout Moreira
+  78  git status
+  79  ipconfig
+  80  git pull
+  81  git status
+  82  git add *
+  83  git commit -m "Sbaglia"
+  84  git push Moreira
+  85  git push origin Moreira
+  86  git add *
+  87  git commit -m "Sbaglia"
+  88  git push origin Moreira
+  89  git checkout master
+  90  git status
+  91  git pull
+  92  history
+
 
 Potenza Hernan
   355  git clone https://github.com/lauty2001moreira/TP_SO_i3_7
