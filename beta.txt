@@ -1,0 +1,80 @@
+Moreira Lautaro 10:54
+enp0s7: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether 6c:62:6d:03:ea:48  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+enp1s10: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.41  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 2802:8010:231d:6b00:57a7:7b4d:ed21:76f9  prefixlen 64  scopeid 0x0<global>
+        inet6 fe80::73fc:d4f7:29b7:12db  prefixlen 64  scopeid 0x20<link>
+        inet6 2802:8010:231d:6b00:e143:e847:573a:941f  prefixlen 64  scopeid 0x0<global>
+        ether 00:e0:52:cb:d5:a4  txqueuelen 1000  (Ethernet)
+        RX packets 3768883  bytes 1898529359 (1.8 GB)
+        RX errors 0  dropped 862  overruns 0  frame 0
+        TX packets 401008  bytes 42720385 (42.7 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 28089  bytes 2648585 (2.6 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 28089  bytes 2648585 (2.6 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+Sbaglia Julian 10:58
+
+np2s0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether c0:3f:d5:16:70:3f  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 1439  bytes 132467 (132.4 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1439  bytes 132467 (132.4 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlp1s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.0.36  netmask 255.255.255.0  broadcast 192.168.0.255
+        inet6 fe80::14cf:d91c:810:38a  prefixlen 64  scopeid 0x20<link>
+        ether 28:e3:47:da:d0:79  txqueuelen 1000  (Ethernet)
+        RX packets 25067  bytes 15153351 (15.1 MB)
+        RX errors 0  dropped 5  overruns 0  frame 0
+        TX packets 17269  bytes 6127354 (6.1 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+
+Potenza Hernan 11:18
+
+
+enp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.36  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 2802:8010:2000:2700:1598:ee0c:e996:3766  prefixlen 64  scopeid 0x0<global>
+        inet6 2802:8010:2000:2700:2168:65f4:a487:ddcc  prefixlen 64  scopeid 0x0<global>
+        inet6 2802:8010:2000:2700:11e9:b52d:a438:c3f1  prefixlen 64  scopeid 0x0<global>
+        inet6 fe80::cc8e:2462:78:a0ec  prefixlen 64  scopeid 0x20<link>
+        ether a0:f3:c1:00:3b:f3  txqueuelen 1000  (Ethernet)
+        RX packets 2286604  bytes 829210857 (829.2 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 559103  bytes 60903622 (60.9 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 17919  bytes 1674558 (1.6 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 17919  bytes 1674558 (1.6 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
