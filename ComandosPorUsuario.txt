@@ -1,3 +1,160 @@
 Moreira Lautaro
+git clone https://github.com/lauty2001moreira/TP_SO_i3_7_.git
+
+  688  git checkout Sbaglia
+  689  echo lautaro Moreira 201.178.112.178 10:30 >> datos.txt 
+  690  git push
+  691  git commit -m "punto 4"
+  692  git add .
+  693  git commit -m "punto 4"
+  694  git push
+  695  cat /proc/cpuinfo > CPUBeta.txt
+  696  git add .
+  697  git commit -m "punto 4"
+  698  git push
+  714  git checkout master 
+  715  git fetch 
+  716  git pull
+  717  git checkout Sbaglia 
+  718  git pull
+  719  git checkout Moreira 
+  720  git pull
+  721  git checkout master 
+  722  git merge
+  723  git checkout Moreira 
+  724  git merge
+  725  git pull all
+  726  git pull 
+  727  git push
+  728  git add .
+  729  git merge Moreira 
+  730  git merge Sbaglia 
+  731  git mergetool
+  732  git status
+  733  git add CPUGamma.txt
+  734  git status
+  735  git merge Sbaglia 
+  736  git checkout Sbaglia 
+  737  git status
+  738  git merge Sbaglia 
+  739  git checkout master 
+  740  git merge Sbaglia 
+  741  git status
+  742  git add .
+  743  git status
+  744  git merge Sbaglia 
+  745  git commit -m  "."
+  746  cd Escritorio/TP_SO_i3_Equipo_7/TP_SO_i3_7_/
+  747  git status
+  748  git push
+  749  git pull
+  750* 
+  751  git status
+  752  git checkout 
+  753  git checkout master 
+  754  git push
+  755  git pull 
+  756  git fetch 
+  757  git pull 
+  758  git push
+  
 Sbaglia Julian
+
+
 Potenza Hernan
+  355  git clone https://github.com/lauty2001moreira/TP_SO_i3_7
+  356  git clone https://github.com/lauty2001moreira/TP_SO_i3_7_
+  357  git fetch
+  358  git merge
+  359  git clone https://github.com/lauty2001moreira/TP_SO_i3_7_ git branch -a
+  360  git clone https://github.com/lauty2001moreira/TP_SO_i3_7_ git branch
+  361  git branch
+  362  git branch -a
+  363  git pull
+  364  git branch -a
+  365  git checkout Sbaglia
+  366  /proc/cpuinfo
+  367  sudo su
+  368  sudo /proc/cpuinfo
+  369  sudo cat /proc/cpuinfo
+  370  sudo /proc/cpuinfo > /home/nenu/Escritorio/TP_SO_i3_7_/CPUAlfa.txt
+  371  sudo cat /proc/cpuinfo > /home/nenu/Escritorio/TP_SO_i3_7_/CPUAlfa.txt
+  372  git commit -m "Punto 3"
+  373  git add .
+  374  git commit -m "Punto 3"
+  375  git push origin Sbaglia
+  376  git push origin
+  377  git status
+  378  git push
+  379  git push origin Sbaglia
+  380  git fetch
+  381  git merge
+  382  git status
+  383  git fetch
+  384  git merge
+  385  git checkout
+  386  git checkout master
+  387  git fetch
+  388  git merge
+  389  git checkout Moreira
+  390  git checkout Sbaglia
+  391  git checkout Moreira
+  392  ifcongif
+  393  ifconfig
+  394  cat ifconfig > /home/nenu/Escritorio/TP_SO_i3_7_/beta.txt
+  395  ifconfig > /home/nenu/Escritorio/TP_SO_i3_7_/beta.txt
+  396  git checkout Moreira
+  397  git fetch
+  398  git merge
+  399  git status
+  400  git pull
+  401  git fetch
+  402  git merge
+  403  git pull
+  404  git checkout Moreira
+  405  git revert head
+  406  git revert HEAD
+  407  git revert
+  408  git revert HEAD
+  409  git revert Sbaglia
+  410  git revert Moreira
+  411  git revert HEAD
+  412  git revert Moreira
+  413  git checkout Moreira
+  414  git checkout Sbaglia
+  415  git stash
+  416  git checkout Sbaglia
+  417  git checkout Moreira
+  418  git status
+  419  cat ifconfig >> /home/nenu/Escritorio/TP_SO_i3_7_/beta.txt
+  420  sudo cat ifconfig >> /home/nenu/Escritorio/TP_SO_i3_7_/beta.txt
+  421  cat /home/nenu/Escritorio/TP_SO_i3_7_/beta.txt
+  422  cat ifconfig >> /home/nenu/Escritorio/TP_SO_i3_7_/beta.txt
+  423  cat ifconfig > /home/nenu/Escritorio/TP_SO_i3_7_/beta.txt
+  424  cat /home/nenu/Escritorio/TP_SO_i3_7_/beta.txt
+  425  git stash
+  426  cat ifconfig >> /home/nenu/Escritorio/TP_SO_i3_7_/beta.txt
+  427  cat /home/nenu/Escritorio/TP_SO_i3_7_/beta.txt
+  428  cat ifconfig > /home/nenu/Escritorio/TP_SO_i3_7_/beta.txt
+  429  cat ifconfigt
+  430  cat ifconfig
+  431  a
+  432  c
+  433  if exit; q; a; naosa; no; git; push; bueno; weq; exit; stash; quit
+  434  ifconfig
+  435  cat ifconfig
+  436  less ifconfig
+  437  ifconfig >> /home/nenu/Escritorio/TP_SO_i3_7_/beta.txt
+  438  git satsh
+  439  git stash
+  440  ifconfig >> /home/nenu/Escritorio/TP_SO_i3_7_/beta.txt
+  441  ifconfig
+  442  git push
+  443  git status
+  444  git add .
+  445  git commit -m "ifconfig Potenza"
+  446  git push
+  447  history
+  448  history > /home/nenu/Escritorio/hola.txt
+
+
