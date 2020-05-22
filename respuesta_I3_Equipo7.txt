@@ -1,0 +1,18 @@
+Responder dentro del archivo “respuesta_I3_EquipoX.txt”
+
+Moreira Lautaro
+Sbaglia Julián
+Potenza Hernán
+
+a-¿Como Queda El master después de estos cambios?
+El master queda casi vacío, sin datos, porque se guardó todo en otras ramas.
+
+b-¿Beta pudo ver todos los cambios que se realizaron?
+Sí
+
+c-¿La ramas creadas por BETA y GAMMA quedan con datos actualizados?
+Sí
+
+d-¿Detalle los problemas que tuvieron al hacer el merge?
+CONFLICTO (renombrar/borrar): Sbaglia/CPUGamma.txt borrado en HEAD y renombrado para CPUGamma.txt en Sbaglia. Versión Sbaglia de CPUGamma.txt permanece en el árbol.
+Fusión automática falló; arregle los conflictos y luego realice un commit con el resultado.
