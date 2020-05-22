@@ -52,3 +52,29 @@ wlp1s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         RX errors 0  dropped 5  overruns 0  frame 0
         TX packets 17269  bytes 6127354 (6.1 MB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+
+Potenza Hernan 11:18
+
+
+enp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.36  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 2802:8010:2000:2700:1598:ee0c:e996:3766  prefixlen 64  scopeid 0x0<global>
+        inet6 2802:8010:2000:2700:2168:65f4:a487:ddcc  prefixlen 64  scopeid 0x0<global>
+        inet6 2802:8010:2000:2700:11e9:b52d:a438:c3f1  prefixlen 64  scopeid 0x0<global>
+        inet6 fe80::cc8e:2462:78:a0ec  prefixlen 64  scopeid 0x20<link>
+        ether a0:f3:c1:00:3b:f3  txqueuelen 1000  (Ethernet)
+        RX packets 2286604  bytes 829210857 (829.2 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 559103  bytes 60903622 (60.9 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 17919  bytes 1674558 (1.6 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 17919  bytes 1674558 (1.6 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
